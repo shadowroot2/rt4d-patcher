@@ -22,7 +22,7 @@ import (
 )
 
 const (
-	windowTitle = "RT-4D Patcher — V3.25 EN → V3.16 CN"
+	windowTitle = "RT-4D Patcher — V3.25 EN → V3.25 CN"
 	windowW     = 640.0
 	windowH     = 460.0
 )
