@@ -8,10 +8,12 @@
 # Go specifics
 *.test
 *.out
+*.exe
 coverage.txt
 vendor/
 
 # Editor noise
+.DS_Store
 .idea/
 .vscode/
 *.swp

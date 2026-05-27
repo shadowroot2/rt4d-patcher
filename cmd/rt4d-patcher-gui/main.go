@@ -18,8 +18,7 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/storage"
 	"fyne.io/fyne/v2/widget"
-
-	"github.com/yourorg/rt4d-patcher/internal/patcher"
+	"github.com/shadowroot2/rt4d-patcher/internal/patcher"
 )
 
 const (

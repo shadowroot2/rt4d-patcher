@@ -17,7 +17,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yourorg/rt4d-patcher/internal/patcher"
+	"github.com/shadowroot2/rt4d-patcher/internal/patcher"
 )
 
 func main() {
