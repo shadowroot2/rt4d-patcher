@@ -1,0 +1,17 @@
+# Build outputs
+/rt4d-patcher-cli
+/rt4d-patcher-cli.exe
+/rt4d-patcher-gui
+/rt4d-patcher-gui.exe
+/dist/
+
+# Go specifics
+*.test
+*.out
+coverage.txt
+vendor/
+
+# Editor noise
+.idea/
+.vscode/
+*.swp
